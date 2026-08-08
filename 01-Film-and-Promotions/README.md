@@ -14,3 +14,9 @@
 *In this promotional video for Sweetie Braids, I experimented with the dynamic features in CapCut. It's not the most professionally sound content, but it shows I really enjoy making a video stand out in ways most people overlook. The way the music aligns with the bass really guides the viewer's attention. I also learned it's not always necessary to use these dynamic features, and in fact overusing them can come across as too amateurish.*
 
 [Watch on YouTube →](https://youtu.be/5PLyCo1CqGI)
+---
+
+### Cardology Series — Why Every Birthday Under a Zodiac Is Different
+*In this video I give an introduction into cardology. This is a series I've just started, and I'm currently experimenting with it across different platforms — TikTok, Facebook, and Instagram. This has got to be the most challenging promo I've done so far because there's so much information I'm squeezing in. I'm used to doing shorter videos.*
+
+[![Watch the Cardology Series intro](https://img.youtube.com/vi/flkUzdH2jUE/hqdefault.jpg)](https://youtube.com/shorts/flkUzdH2jUE?feature=share)
