@@ -3,16 +3,16 @@
 ---
 
 ## 👋 About This Portfolio
-This repository contains documents for video edits and logos I created as promotional content for my friends' businesses. My style of storytelling can span from calm and relaxing, to smooth and educational, to excited and energetic. Use the links below to navigate to each skill.
+This repository contains documents for video edits and logos I created as promotional content for my friends' businesses. My storytelling spans from relaxing, educational prose to energetic, high-tempo edits that integrate humor.  
 
 ---
 
 ## 📷 🎥 🖼️ Skills
 
-| # | Skills | Status | Tools & Topics |
-|---|--------|--------|-----------------|
-| 01 | [Film and Promotions](./01-Film-and-Promotions) | ✅ Complete | *(add tools/topics here)* |
-| 02 | [Logos for Merch](./02-Logos-for-Merch) | ✅ Complete | *(add tools/topics here)* |
+| # | Skills |
+|---|--------|
+| 01 | [Film and Promotions](./01-Film-and-Promotions) |
+| 02 | [Logos for Merch](./02-Logos-for-Merch) |
 
 ---
 
