@@ -17,5 +17,5 @@ This repository contains documents for video edits and logos I created as promot
 ---
 
 ## 📬 Contact
-- **LinkedIn:** *(add your LinkedIn URL here)*
-- **Email:** *(add your email here)*
+- **LinkedIn:** *https://www.linkedin.com/in/dap2029/*
+- **Email:** *debsparker@my.unt.edu*
