@@ -16,7 +16,11 @@
 [Watch on YouTube →](https://youtu.be/5PLyCo1CqGI)
 ---
 
-### Cardology Series — Why Every Birthday Under a Zodiac Is Different
-*In this video I give an introduction into cardology. This is a series I've just started, and I'm currently experimenting with it across different platforms — TikTok, Facebook, and Instagram. This has got to be the most challenging promo I've done so far because there's so much information I'm squeezing in. I'm used to doing shorter videos.*
+### theaceupyosleeve
+
+*In this video I give an introduction into my cardology series. In this clip I explain "Why Every Birthday Under a Zodiac Is Different". This is a series I've just started, and I'm currently experimenting with it across different platforms — TikTok, Facebook, and Instagram. This has got to be the most challenging promo I've done so far because it is a faceless account, and there's so much information I'm squeezing in to explain famous celbrities personalities and how they act.*
 
 [![Watch the Cardology Series intro](https://img.youtube.com/vi/flkUzdH2jUE/hqdefault.jpg)](https://youtube.com/shorts/flkUzdH2jUE?feature=share)
+
+
+
