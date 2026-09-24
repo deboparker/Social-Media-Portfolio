@@ -27,6 +27,6 @@
 
 *I switched back and forth with Canva and Adobe Express. I ended up discovering I prefer Adobe Express because it offered more elements and allowed me to use AI. I used Adobe Express to create a flyer to sell digital product reports.
 
-[![Watch the Cardology Series intro](https://img.youtube.com/vi/flkUzdH2jUE/hqdefault.jpg)](https://youtube.com/shorts/flkUzdH2jUE?feature=share)
+[![Watch the Cardology Series intro](FINAL Cardology FLYER WITH PRICE.png)]
 
 
