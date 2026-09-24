@@ -1,7 +1,7 @@
 
 # 🖼️ Logos for Merch
 
-A collection of logos and merchandise designs I created for small businesses and creators. Each project shows the client's goal, my design process, and the final result applied to products.
+A collection of logos and merchandise designs I created for small businesses and creators. Each project shows the client's goal, my design process, and the final result applied to products. Will be posting more.
 
 
 ## Mug Merch Design for Wellness with Patience
