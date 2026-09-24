@@ -22,8 +22,7 @@
 
 [![Watch the Cardology Series intro](https://img.youtube.com/vi/flkUzdH2jUE/hqdefault.jpg)](https://youtube.com/shorts/flkUzdH2jUE?feature=share)
 
-
-#### theaceupyosleeve Flyers for Digital Product
+---
 
 ### theaceupyosleeve Flyers for Digital Product
 
