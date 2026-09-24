@@ -6,7 +6,7 @@
 #### Business Promo — Veggies Outers
 *This video was created for "Veggies Outers." In this video, using CapCut I chose to use lo-fi music and relaxing prose to reflect Veggie Outers' host. The host, Ellijah, has a calm, relaxed composure and a diverse range of friends, so I wanted the introduction to present that. By using a slow, warming instrumental and sharing the diverse range of members, I wanted new members from different backgrounds to feel safe and welcomed.*
 
-[!Watch on YouTube →](https://youtube.com/shorts/bJuy-44UOo4?feature=share)
+[[!Watch on YouTube →](https://youtube.com/shorts/bJuy-44UOo4?feature=share)
 
 ---
 
@@ -25,6 +25,9 @@
 
 #### theaceupyosleeve Flyers for Digital Product
 
+### theaceupyosleeve Flyers for Digital Product
+
 *I switched back and forth between Canva and Adobe Express. I ended up discovering I prefer Adobe Express because it offered more elements and allowed me to use AI. I used Adobe Express to create a flyer to sell digital product reports.*
-![Cardology report flyer with pricing](Cardology-Flyer.png)
+
+![Cardology report flyer with pricing](<https://raw.githubusercontent.com/deboparker/Social-Media-Portfolio/main/FINAL Cardology FLYER WITH PRICE.png>)
 
