@@ -12,7 +12,7 @@ This repository contains documents for video edits and logos I created as promot
 | # | Skills |
 |---|--------|
 | 01 | [Film and Promotions](./01-Film-and-Promotions) |
-| 02 | [Logos for Merch](./02-Logos-for-Merch) |
+| 02 | [Logos for Merch](./Logos-for-Merch) |
 
 ---
 
