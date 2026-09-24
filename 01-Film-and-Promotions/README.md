@@ -26,7 +26,5 @@
 #### theaceupyosleeve Flyers for Digital Product
 
 *I switched back and forth between Canva and Adobe Express. I ended up discovering I prefer Adobe Express because it offered more elements and allowed me to use AI. I used Adobe Express to create a flyer to sell digital product reports.*
-
-![Cardology report flyer with pricing](FINAL%20Cardology%20FLYER%20WITH%20PRICE.png)
-
+![Cardology report flyer with pricing](Cardology-Flyer.png)
 
